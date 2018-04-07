@@ -1,0 +1,2 @@
+scriptPubKey: OP_DUP OP_HASH160 <pubKeyHash> OP_EQUALVERIFY OP_CHECKSIG
+scriptSig: <sig> <pubKey>
